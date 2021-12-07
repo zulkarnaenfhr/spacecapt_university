@@ -1,0 +1,35 @@
+#formLogin {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#formLogin ul {
+    list-style-type: none;
+    display: block;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.dataLogin ul li {
+    margin-top: 1rem;
+}
+
+.dataLogin ul li label {
+    width: 200px;
+}
+
+#buttonregister {
+    color: black;
+    text-decoration: none;
+}
+
+#buttonHaveAccount {
+    color: black;
+    text-decoration: none;
+}

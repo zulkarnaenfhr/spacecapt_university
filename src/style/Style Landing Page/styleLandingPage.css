@@ -1,0 +1,15 @@
+main {
+    background-color: white;
+}
+
+#landingPage{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    color: red;
+    text-align: center;
+}

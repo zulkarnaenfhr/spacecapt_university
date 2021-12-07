@@ -1,0 +1,50 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#formTambahDataMahasiswa {
+    width: 100%;
+    height: 90vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formContainer {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(233, 233, 233);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.taglineForm{
+  margin-top: -1rem;
+}
+
+.formInputan {
+    width: 100%;
+}
+
+.formInputDataMahasiswa fieldset{
+  padding-top: 1rem;
+}
+
+.formInputDataMahasiswa fieldset button{
+  width: 100px;
+  border-radius: 10px;
+}
+
+.formInputan::placeholder {
+    font-size: 15px;
+}
+
+.judulForm{
+  font-size: 25px;
+  color: red;
+}

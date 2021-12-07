@@ -1,0 +1,72 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+font-family: 'Poppins', sans-serif; */
+
+.judulSection{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 2rem;
+    color: black;
+}
+
+.option-left-search{
+    margin-top: 1rem;
+}
+
+.option-right{
+    /* text-align: right; */
+    display: flex;
+    justify-content: right;
+    color: cadetblue;
+}
+
+.linknya{
+    font-size: 50px;
+}
+
+#table-content{
+    padding-top: 0.5rem;
+}
+
+table{
+    width: 100%;
+}
+
+tr th{
+    border: 1px solid black;
+}
+.tabelOutput{
+    text-align: center;
+}
+.isiTabel{
+    color: black;
+    font-weight: lighter;
+}
+.tableNoUrut {
+    width: 75px;
+}
+.tableNpm {
+    width: 150px;
+}
+.tableNama {
+    width: 200px;
+}
+.tableKota {
+    width: 150px;
+}
+.tableFakultas {
+    width: 200px;
+}
+.tableJurusan {
+    width: 175px;
+}
+.tableOption {
+    width: 150px;
+}
+
+.isi-tableOption{
+    text-align: left;
+}
+
+.isi-tableOption ul li{
+    display: inline-block;
+    list-style-type: none;
+}

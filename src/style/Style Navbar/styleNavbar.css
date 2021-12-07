@@ -1,0 +1,49 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dongle&family=Poppins:wght@500&display=swap');
+font-family: 'Dongle', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+.navbar {
+    background-color: #f0e9d2;
+}
+
+#homeBrand {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: "Dongle", sans-serif;
+    color: #105652;
+    /* color: red; */
+}
+
+#homeBrand:hover {
+    color: #489995;
+}
+
+#navbar-login{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+}
+
+#navbar-login:hover {
+    color: red;
+}
+
+#navbar-menu {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+}
+
+#navbar-menu:hover {
+    color: #489995;
+}
+
+#isiFakultas {
+    margin-top: -1rem;
+}
+
+#jurusan {
+    padding-left: 2rem;
+}
+
+
