@@ -137,7 +137,7 @@
                             <h3 class="judulSection">Menampilkan Seluruh Data Mahasiswa</h3>
                         </div>
                         <div class="row">
-                            <div class="col-6 option-left-search">
+                            <div class="col-6 option-left">
                                 <form action="" method="POST">
                                     <input type="text" name="cariNpm" autocomplete="off">
                                     <button type="submit" name="tombolCari">Cari Npm</button>

@@ -1,42 +1,43 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 font-family: 'Poppins', sans-serif; */
 
-.judulSection{
-    font-family: 'Poppins', sans-serif;
+.judulSection {
+    font-family: "Poppins", sans-serif;
     padding-top: 2rem;
     color: black;
 }
 
-.option-left-search{
-    margin-top: 1rem;
-}
-
-.option-right{
+.option-right {
     /* text-align: right; */
     display: flex;
     justify-content: right;
     color: cadetblue;
 }
 
-.linknya{
+.linknya {
     font-size: 50px;
 }
 
-#table-content{
+#table-content {
     padding-top: 0.5rem;
 }
 
-table{
+table {
     width: 100%;
 }
 
-tr th{
+table tr th {
     border: 1px solid black;
 }
-.tabelOutput{
+
+table tr:nth-child(odd) th {
+    background-color: #c2e4ff;
+}
+
+.tabelOutput {
     text-align: center;
 }
-.isiTabel{
+.isiTabel {
     color: black;
     font-weight: lighter;
 }
@@ -62,11 +63,11 @@ tr th{
     width: 150px;
 }
 
-.isi-tableOption{
+.isi-tableOption {
     text-align: left;
 }
 
-.isi-tableOption ul li{
+.isi-tableOption ul li {
     display: inline-block;
     list-style-type: none;
 }
